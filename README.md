@@ -126,23 +126,6 @@ Himesh Ambaliya
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himesh565&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himesh565&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Himesh565&theme=tokyonight&hide_border=true&ring=38BDF8&fire=0284C7&currStreakLabel=38BDF8" width="75%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himesh565&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
