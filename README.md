@@ -1,5 +1,7 @@
 
-<!-- Himesh Ambaliya | Offensive Security Profile -->
+<!-- ======================================== -->
+<!-- HIMESH AMBALIYA | OFFENSIVE SECURITY     -->
+<!-- ======================================== -->
 
 <h1 align="center">HIMESH AMBALIYA</h1>
 
@@ -7,20 +9,26 @@
   Offensive Security Enthusiast | Ethical Hacking | Red Teaming
 </h3>
 
-<!-- MATRIX RAIN ANIMATION -->
+<!-- MATRIX DIGITAL RAIN ANIMATION -->
+
 <p align="center">
-  <img src="assets/matrix.gif" width="100%" alt="Matrix Digital Rain Animation"/>
+  <img
+    src="./assets/matrix-matrix-code.gif"
+    width="100%"
+    alt="Matrix Digital Rain Animation"
+  />
 </p>
 
-<!-- ANIMATED TYPING -->
+<!-- ANIMATED TYPING INTRO -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Initializing+Offensive+Security...;Exploring+Web+Vulnerabilities...;Practicing+Ethical+Hacking...;Learning+Red+Team+Operations...;Think+Like+An+Attacker." />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-00AA41?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Domain-Red%20Teaming-008F39?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mindset-Continuous%20Learning-006B2D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-OFFENSIVE_SECURITY-00AA41?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DOMAIN-RED_TEAMING-008F39?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MINDSET-CONTINUOUS_LEARNING-006B2D?style=for-the-badge"/>
 </p>
 
 ---
@@ -48,7 +56,7 @@ To become a skilled **Offensive Security Engineer / Red Team Operator**, special
 
 ### 🔴 Offensive Security
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
@@ -58,28 +66,30 @@ To become a skilled **Offensive Security Engineer / Red Team Operator**, special
 
 ### 💻 Programming Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,bash,c,cpp,html,css"/>
 </p>
 
 ### 🛠️ Development & Platforms
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,react,nodejs,mongodb,mysql"/>
 </p>
 
-### 🧠 Areas of Interest
+---
 
-- Web Application Penetration Testing
-- Network Penetration Testing
-- Vulnerability Assessment
-- Privilege Escalation
-- Binary Exploitation & PWN
-- Reverse Engineering
-- Active Directory Security
-- Red Team Operations
-- OSINT & Reconnaissance
-- CTF Challenges
+## 🧠 Areas of Interest
+
+- 🌐 Web Application Penetration Testing
+- 🌍 Network Penetration Testing
+- 🔍 Vulnerability Assessment
+- 🔓 Privilege Escalation
+- 💥 Binary Exploitation & PWN
+- 🔬 Reverse Engineering
+- 🏢 Active Directory Security
+- 🛡️ Red Team Operations
+- 🔎 OSINT & Reconnaissance
+- 🚩 Capture The Flag (CTF)
 
 ---
 
@@ -98,11 +108,13 @@ To become a skilled **Offensive Security Engineer / Red Team Operator**, special
 ## 💻 My Security Environment
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OS-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terminal-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 </p>
+
+### Terminal
 
 ```bash
 ┌──(himesh㉿kali)-[~]
@@ -128,23 +140,29 @@ Himesh Ambaliya
 ## 🌐 Connect With Me
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/himesh-ambaliya-0a770628a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:hello.himeshambaliya@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://github.com/Himesh565">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://www.instagram.com/alpha__security_/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+
 </p>
 
 ---
 
 <!-- ANIMATED FOOTER -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B18,50:008F39,100:020617&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>
