@@ -1,126 +1,109 @@
-# 🛡️ Himesh Ambaliya | Cybersecurity Enthusiast
 
-<p align="center">
-  <img src="https://github.com/Himesh565.png" width="140" height="140" style="border-radius:50%;" alt="Himesh Ambaliya GitHub Avatar" />
-</p>
+<!--
+  Himesh Ambaliya | GitHub Profile README
+  Focus: Offensive Security & Red Teaming
+-->
 
-<h1 align="center">Hi, I'm Himesh Ambaliya 👋</h1>
+<h1 align="center">Himesh Ambaliya</h1>
 
 <h3 align="center">
-  Cybersecurity Enthusiast | Digital Forensics | Security Research
+  Offensive Security Enthusiast | Ethical Hacking | Red Teaming
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:0284C7&height=180&section=header&text=HIMESH%20AMBALIYA&fontSize=40&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%7C%20DIGITAL%20FORENSICS%20%7C%20SECURITY%20RESEARCH&descAlignY=60&descSize=13" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:0284C7&height=180&section=header&text=OFFENSIVE%20SECURITY&fontSize=38&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=ETHICAL%20HACKING%20%7C%20PENETRATION%20TESTING%20%7C%20RED%20TEAMING&descAlignY=60&descSize=13" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Exploring+Cybersecurity;Learning+Digital+Forensics;Building+Security+Labs;Researching+Web+Application+Security;Securing+the+Digital+World" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Breaking+Things+to+Understand+Security;Learning+Offensive+Security;Exploring+Web+Application+Security;Practicing+Binary+Exploitation;Building+Red+Team+Skills" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0284C7?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Interest-Digital%20Forensics-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mindset-Continuous%20Learning-0369A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-0284C7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-Red%20Teaming-0369A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mindset-Think%20Like%20An%20Attacker-075985?style=for-the-badge" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Himesh Ambaliya**, a cybersecurity enthusiast interested in investigating digital threats, understanding vulnerabilities, and strengthening information security.
+Hey! I'm **Himesh Ambaliya**, an M.Sc. Cyber Security student passionate about Offensive Security, Ethical Hacking, and Red Teaming.
 
-🎓 **Education:** M.Sc. Cyber Security
+I enjoy understanding how systems work, identifying security weaknesses, and exploring attack techniques in authorized environments.
 
-🔐 **Areas of Interest:**
+- 🔭 Currently working on: Offensive Security Labs, CTF Challenges & Web Security Projects
+- 👯 Looking to collaborate on: Ethical Hacking, Security Research & Open-Source Projects
+- 🤝 Looking for help with: Advanced Exploit Development, Active Directory Security & Red Team Operations
+- 🌱 Currently learning: Penetration Testing, Web Exploitation, Privilege Escalation & Binary Exploitation
+- 💬 Ask me about: Kali Linux, Burp Suite, Nmap, Python, Web Security & CTFs
+- ⚡ Fun fact: I love solving security challenges and thinking like an attacker.
 
-- Digital Forensics & Incident Response (DFIR)
-- Cybersecurity & Information Security
-- Security Operations Center (SOC)
-- Web Application Security
-- Vulnerability Assessment & Penetration Testing
-- Open Source Intelligence (OSINT)
-- Threat Intelligence & Security Research
+### 🎯 Career Goal
 
-🔭 **Currently Working On:** Building practical cybersecurity projects and an SOC monitoring lab.
-
-🌱 **Currently Learning:** Digital Forensics, SIEM, Incident Response, Web Security and Security Monitoring.
-
-💬 **Ask Me About:** Kali Linux, Python, OSINT, Web Application Security and Cybersecurity Tools.
-
-🎯 **Career Goal:** To develop expertise in Digital Forensics and Incident Response and contribute to the cybersecurity industry.
+To become a skilled **Offensive Security Engineer / Red Team Operator**, specializing in penetration testing, adversary simulation, vulnerability research, and exploit development.
 
 ---
 
 ## ⚔️ Technical Skills & Tools
 
-### 🔐 Cybersecurity & Security Tools
+### 🔴 Offensive Security
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
+
+### 💻 Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh-0266B3?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maltego-1B365D?style=flat-square&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,bash,c,cpp,html,css" />
 </p>
 
-### 💻 Programming & Development
+### 🛠️ Development & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,nodejs,php,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,react,nodejs,mongodb,mysql" />
 </p>
 
-### 🛠️ Development & Infrastructure Tools
+### 🧠 Areas of Interest
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
-</p>
-
-### 🕵️ Digital Forensics
-
-- EnCase Forensic
-- MOBILedit Forensic
-- Windows Event Logs & Sysmon
-- Evidence Acquisition and Analysis
-- File System & Storage Investigation
+- Web Application Penetration Testing
+- Network Penetration Testing
+- Vulnerability Assessment
+- Privilege Escalation
+- Binary Exploitation & PWN
+- Reverse Engineering
+- Active Directory Security
+- Red Team Operations
+- OSINT & Reconnaissance
+- CTF Challenges
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛡️ SOC Monitoring Lab
-
-Developing a practical Security Operations Center lab focused on centralized log monitoring, endpoint security and network threat detection.
-
-**Technologies:** Wazuh, Suricata, Linux, Sysmon
-
-### 🔐 JWT Security
-
-Exploring JSON Web Token authentication, common implementation weaknesses and security testing techniques.
-
-**Technologies:** JavaScript, Web Security, Burp Suite
-
-### 🕵️ Digital Forensics & CTF Investigations
-
-Practicing forensic investigation through authorized challenges, examining digital evidence, file systems, browser artifacts and system logs.
-
-**Tools:** Kali Linux, EnCase, MOBILedit, forensic analysis utilities
-
-### 🌐 FlixGo – Movie Ticket Booking Platform
-
-A full-stack movie ticket booking application developed using the MERN stack.
-
-**Technologies:** React.js, Node.js, Express.js, MongoDB
+| Project | Description |
+|---|---|
+| 🔐 JWT Security Research | JWT authentication security analysis and testing |
+| 🌐 Web Application Pentesting | Authorized web security testing and OWASP labs |
+| 💥 Binary Exploitation | PWN challenges, GDB and pwntools practice |
+| 🛡️ Offensive Security Labs | Hands-on penetration testing laboratory |
+| 🧪 Red Team Learning Journal | Documenting security concepts and lab exercises |
 
 ---
 
-## 🧪 Cybersecurity Learning & Research
+## 💻 My Security Environment
+
+<p>
+  <img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+</p>
 
 ```bash
 ┌──(himesh㉿kali)-[~]
@@ -128,25 +111,18 @@ A full-stack movie ticket booking application developed using the MERN stack.
 
 Himesh Ambaliya
 
-└─$ cat interests.txt
+└─$ cat objectives.txt
 
-[+] Digital Forensics & Incident Response
-[+] Security Operations Center
-[+] Web Application Security
-[+] Vulnerability Assessment
-[+] Threat Intelligence & OSINT
-[+] Linux Security
-[+] Continuous Learning
+[+] Offensive Security
+[+] Web Application Penetration Testing
+[+] Network Security
+[+] Binary Exploitation
+[+] Privilege Escalation
+[+] Active Directory Security
+[+] Red Team Operations
 
-└─$ echo "Keep Learning. Keep Securing."
+└─$ echo "Think Like an Attacker."
 ```
-
----
-
-## 🎓 Education
-
-- **M.Sc. Cyber Security**
-- **Bachelor of Computer Applications (BCA)**
 
 ---
 
@@ -174,10 +150,13 @@ Himesh Ambaliya
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hello.himeshambaliya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Himesh565">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/alpha__security_/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -188,9 +167,9 @@ Himesh Ambaliya
 </p>
 
 <h3 align="center">
-  ⚡ Think Like an Analyst. Investigate Like a Forensic Expert. Secure Like a Professional.
+  ⚡ Think Like an Attacker. Secure Like a Professional.
 </h3>
 
 <p align="center">
-  <i>Learning today. Securing tomorrow. 🔐</i>
+  <i>Learning. Hacking. Researching. Improving. 🔐</i>
 </p>
